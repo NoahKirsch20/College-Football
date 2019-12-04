@@ -5,7 +5,8 @@ ___
 ___
 ## My Favorite Team
  - Ohio State Buckeyes
- ![](https://s3.amazonaws.com/file.imleagues/Images/Schools/Uploaded/201709/20179513586932887a58241bd878d01c6767dce2b33e52.jpg)
+ 
+ ![](https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/04/30105433/Ohio-State-University-400x400.jpg)
  
 ---
 ### Top 5 teams *currently*
