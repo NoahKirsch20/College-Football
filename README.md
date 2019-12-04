@@ -1,6 +1,6 @@
 ___
  College football is one of my
- **favorite** sports. I watch every big ranked vs ranked game I can.
+ **favorite** sports. I watch every big ranked vs ranked game that I can. 
  
 ___
 ## My Favorite Team
