@@ -5,6 +5,7 @@ ___
 ___
 ## My Favorite Team
  - Ohio State Buckeyes
+ ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thefire.org%2Fschools%2Fthe-ohio-state-university%2F&psig=AOvVaw2rsVPr0nPA38KpW7LTcFz7&ust=1575575076817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj3ntvgnOYCFQAAAAAdAAAAABAD)
  
 ---
 ### Top 5 teams *currently*
