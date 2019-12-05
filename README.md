@@ -15,3 +15,10 @@ ___
 3. [Clemson](https://www.google.com/search?q=clemson+football&oq=clemson+football&aqs=chrome..69i57j0l7.6085j1j9&sourceid=chrome&ie=UTF-8#sie=t;/m/03hfxkn;6;/m/012hfxch;mt;fp;1;;)
 4. [Georgia](https://www.google.com/search?q=georgia+football&oq=georgia+football&aqs=chrome..69i57j0l7.3029j1j9&sourceid=chrome&ie=UTF-8#sie=t;/m/07kbp5;6;/m/012hfxch;mt;fp;1;;)
 5. [Utah](https://www.google.com/search?q=utah+football&oq=utah+football&aqs=chrome..69i57j0l7.3337j0j9&sourceid=chrome&ie=UTF-8#sie=t;/m/04n7ps6;6;/m/012hfxch;mt;fp;1;;)
+
+### Navigation
+- [Home Page](https://noahkirsch20.github.io/FinalProject/)
+- [Travel](https://noahkirsch20.github.io/States/)
+- [Comedies](https://noahkirsch20.github.io/Comedies/)
+- [Gaming](https://noahkirsch20.github.io/Gaming/)
+- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
